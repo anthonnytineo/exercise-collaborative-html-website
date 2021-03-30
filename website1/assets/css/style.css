@@ -1,3 +1,9 @@
-body{
-    background: #BDBDBD;
+body {
+  background: #bdbdbd;
+}
+h1,
+h2 {
+  background: white;
+  padding: 20px;
+  font-size: 60px !important;
 }
