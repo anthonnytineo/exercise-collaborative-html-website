@@ -7,3 +7,35 @@ h2 {
   padding: 20px;
   font-size: 60px !important;
 }
+.imgf{
+  width: 150px;
+  height: 150px;
+  margin-top: 50px;
+  
+}
+.mediab{
+  margin-left: 190px;
+  width: 500px;
+  margin-top: 50px;
+}
+span {
+  color: #bdbdbd;
+}
+.imgserv{
+  width: 150px;
+  height: 150px;
+  margin-top: 50px;
+  margin-left: 190px;
+  
+  
+}
+.bodyserv{
+  margin-left: 40px;
+  width: 500px;
+  margin-top: 50px;
+  
+}
+.servbod{
+display: flex;
+justify-content: space-evenly;
+}
