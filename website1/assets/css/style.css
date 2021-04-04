@@ -7,35 +7,36 @@ h2 {
   padding: 20px;
   font-size: 60px !important;
 }
-.imgf{
+.imgf {
   width: 150px;
   height: 150px;
   margin-top: 50px;
-  
 }
-.mediab{
-  margin-left: 190px;
+.mediab {
   width: 500px;
   margin-top: 50px;
 }
 span {
   color: ;
 }
-.imgserv{
+.imgserv {
   width: 150px;
   height: 150px;
   margin-top: 50px;
   margin-left: 190px;
-  
-  
 }
-.bodyserv{
+.bodyserv {
   margin-left: 40px;
   width: 500px;
   margin-top: 50px;
-  
 }
-.servbod{
-display: flex;
-justify-content: space-evenly;
+.servbod {
+  display: flex;
+  justify-content: space-evenly;
+}
+.media-body {
+  height: 350px;
+}
+.tile {
+  color: #bdbdbd;
 }
